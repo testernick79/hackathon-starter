@@ -1,7 +1,7 @@
 # .travis.yml file
 # language: node_js
 # node_js:
-#   - "8"
+#   - "8.16.1"
 #   services: mongodb
 #   cache:
 #     directories:
